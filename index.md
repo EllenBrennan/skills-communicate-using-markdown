@@ -5,3 +5,7 @@
 ``` java
 int num = 0;
 ```
+
+- [x] done
+- [ ] not done
+- [x] donezo 
